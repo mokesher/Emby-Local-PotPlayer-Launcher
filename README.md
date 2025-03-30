@@ -1,1 +1,1 @@
-# Emby-Local-PotPlayer-Launcher-Moke-
+emby web调用potplayer播放本地的视频，纯本地播放，不走网络流媒体
