@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.8
 // @description  Fixed version with reliable button injection
-// @author       YourName
+// @author       Moke
 // @match        *://*/web/index.html
 // @grant        GM_openInTab
 // @grant        GM_registerMenuCommand
