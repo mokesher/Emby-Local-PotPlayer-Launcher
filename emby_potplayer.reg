@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\embyplayer]
+"URL Protocol"=""
+@="EmbyPlayerProtocol"
+
+[HKEY_CLASSES_ROOT\embyplayer\DefaultIcon]
+@="C:\\Program Files\\DAUM\\PotPlayer\\PotPlayerMini.exe,1"
+
+[HKEY_CLASSES_ROOT\embyplayer\shell]
+[HKEY_CLASSES_ROOT\embyplayer\shell\open]
+[HKEY_CLASSES_ROOT\embyplayer\shell\open\command]
+@="\"C:\\Python312\\python.exe\" \"D:\\github\\TestAll\\emby\\embyplayer.py\" \"%1\""
